@@ -1708,7 +1708,7 @@ a {
  * Improve readability when focused and also mouse hovered in all browsers.
  */
 a:active, a:hover {
-  color:#0D47A1;
+  color:#1976d2 ;
   outline: 0; }
 
 /* Text-level semantics
